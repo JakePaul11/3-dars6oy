@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(0, 157, 255, 0.635);
+}
+
+.im img {
+    position: absolute;
+    top: 200px;
+    left: 50px;
+}
+
+.d1 img {
+    position: absolute;
+    top: 200px;
+    right: 50px;
+}
+
+.d1 {
+    text-align: center;
+    margin-top: 200px;
+    background-color: bisque;
+    width: 800px;
+    padding: 30px;
+}
+
+button {
+    width: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+    font-size: 15px;
+}
+
+#usernameInput {
+    width: 300px;
+    padding: 20px;
+    background-color: blueviolet;
+    border: 3px solid rgb(0, 255, 94);
+    color: rgb(225, 255, 0);
+    font-size: 15px;
+}
+
